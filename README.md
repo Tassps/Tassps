@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **tassospsimitis@gmail.com**
 
-- ⚡ Fun fact **I come from a hospitality background, worked in the operational department and gained experience in sales.**
+- ⚡ Fun fact **I come from a hospitality background, worked in the operational department, gained experience in sales and costumer service.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tassos psimitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tassos psimitis" height="30" width="40" /></a>
-<a href="https://fb.com/tassos psimitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tassos psimitis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tassos-psimitis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tassos psimitis" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011777916085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tassos psimitis" height="30" width="40" /></a>
 <a href="https://instagram.com/tassosps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tassosps" height="30" width="40" /></a>
 </p>
 
