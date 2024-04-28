@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Tassos!</h1>
-<h3 align="center">A passionate fullstack developer from Greece!</h3>
+<h3 align="center">A passionate Web/Front End Developer from Greece!</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, SIEM tools and Linux**.
+- 🌱 I’m currently learning **JavaScript, React, Hooks, Redux, React Router, Next.js**.
 
 - 📫 How to reach me **tassospsimitis@gmail.com**
 
