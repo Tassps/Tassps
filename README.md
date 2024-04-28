@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Tassos!</h1>
-<h3 align="center">A passionate Web/Front End Developer from Greece!</h3>
+<h3 align="center">A passionate Junior Web/Front End Developer from Greece!</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Hooks, Redux, React Router, Next.js**.
 
