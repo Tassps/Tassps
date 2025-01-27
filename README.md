@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I come from a hospitality background, worked in the operational department, gained experience in sales and costumer service.**
 
--**Bellow, you can see all the tools and langauges I used and still use on my coding Projects, which complement my analytical skills and equip me to collaborate effectively with technical teams!
+- **Bellow, you can see all the tools and langauges I used and still use on my coding Projects, which complement my analytical skills and equip me to collaborate effectively with technical teams!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
