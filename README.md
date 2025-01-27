@@ -1,11 +1,13 @@
  <h1 align="center">Hi 👋, I'm Tassos!</h1>
-<h3 align="center">A passionate Junior Web/Front End Developer from Greece!</h3>
+<h3 align="center">An aspiring Software Business Analyst from Greece!</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Hooks, Redux, React Router, Next.js**.
+- 🌱 I’m currently learning and practicing **Jira, Microsoft (Visio, Word, Excel and Power BI), Figma and TestRail**.
 
 - 📫 How to reach me **tassospsimitis@gmail.com**
 
 - ⚡ Fun fact **I come from a hospitality background, worked in the operational department, gained experience in sales and costumer service.**
+
+-**Bellow, you can see all the tools and langauges I used and still use on my coding Projects, which complement my analytical skills and equip me to collaborate effectively with technical teams!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
