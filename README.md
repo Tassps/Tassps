@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Tassos!</h1>
 <h3 align="center">An aspiring Software Business Analyst from Greece!</h3>
 
-- 🌱 I’m currently learning and practicing **Jira, Microsoft (Visio, Word, Excel and Power BI), Figma and TestRail**.
+- 🌱 I’m currently learning and practicing **Jira, Microsoft (Visio, Word, Excel and Power BI), SQL and TestRail**.
 
 - 📫 How to reach me **tassospsimitis@gmail.com**
 
