@@ -83,7 +83,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="word" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" alt="word" width="40" height="40"/>
 </a>
 <a href="https://www.getxray.app/" target="_blank" rel="noreferrer">
 <img src="https://avatars.githubusercontent.com/u/20723322?s=200&v=4" alt="xray" width="40" height="40"/>
@@ -93,6 +93,6 @@
 </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tassps&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true)
+![GitHub Stats](https://stats-github-readme.vercel.app/api?username=tassps&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassps&show_icons=true&theme=dark&locale=en&count_private=true)
+![Top Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=tassps&layout=compact&theme=tokyonight)
