@@ -65,7 +65,7 @@
 </a> 
 </p>
 
-<h3 align="left">Tools used in workk:</h3>
+<h3 align="left">Tools used in work:</h3>
 <p align="left"> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="40" height="40"/>
