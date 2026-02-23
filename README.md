@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Tassos!</h1>
+<h1 align="center">Hi 👋, I'm Tassos!</h1>
 <h3 align="center">A Software Business Analyst from Greece!</h3>
 
 - 🌱 I’m currently learning and practicing **Jira,SQL and Xray**.
@@ -83,16 +83,16 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" alt="word" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="word" width="40" height="40"/>
 </a>
 <a href="https://www.getxray.app/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/xray.svg" alt="xray" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/20723322?s=200&v=4" alt="xray" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tassps&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tassps" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tassps&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tassps&show_icons=true&theme=dark&locale=en" alt="Tassps" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassps&show_icons=true&theme=dark&locale=en&count_private=true)
